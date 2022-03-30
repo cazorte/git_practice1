@@ -6,6 +6,8 @@ public class HelloWorld {
      int x =0;
      String y ="qwert";
 
+     //3 stape
+
 
     }
 
